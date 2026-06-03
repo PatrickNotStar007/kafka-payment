@@ -12,5 +12,8 @@
   "type": "module",
   "dependencies": {
     "kafkajs": "^2.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
